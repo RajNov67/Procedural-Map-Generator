@@ -1,0 +1,14 @@
+#canvasBackground{
+    -fx-background-color: #333333;
+}
+
+.label{
+    -fx-font-family: "Arial";
+    -fx-text-fill: #bfbfbf;
+
+}
+
+.text-field{
+    -fx-background-color: #cccccc;
+
+}
